@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "65FXBNY676.app.getdepot.depot",
+				"paths": [ "*" ]
+			}
+		]
+	}
+}
